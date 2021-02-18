@@ -1,0 +1,13 @@
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\bin\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.exe
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\bin\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.deps.json
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\bin\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.runtimeconfig.json
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\bin\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.runtimeconfig.dev.json
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\bin\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.dll
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\bin\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.pdb
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\obj\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.csprojAssemblyReference.cache
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\obj\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.AssemblyInfoInputs.cache
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\obj\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.AssemblyInfo.cs
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\obj\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.csproj.CoreCompileInputs.cache
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\obj\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.dll
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\obj\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.pdb
+C:\Users\Renaud\Desktop\LAMANU\Intro DotNET\CSHARP_Listes_Exo1\obj\Debug\netcoreapp3.1\CSHARP_Listes_Exo1.genruntimeconfig.cache

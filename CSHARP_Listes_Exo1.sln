@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP_Listes_Exo1", "CSHARP_Listes_Exo1.csproj", "{73A34363-E80B-4D45-B7BE-C37DBB5DEB1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A34363-E80B-4D45-B7BE-C37DBB5DEB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A34363-E80B-4D45-B7BE-C37DBB5DEB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A34363-E80B-4D45-B7BE-C37DBB5DEB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A34363-E80B-4D45-B7BE-C37DBB5DEB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32140A6D-1383-4986-AE03-E6064CB0BBD6}
+	EndGlobalSection
+EndGlobal
